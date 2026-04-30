@@ -12,5 +12,5 @@ However, the system has some limitations. It uses a fixed-size array, so storage
 
 In the future, the system can be improved by replacing arrays with linked lists for dynamic storage, adding file handling for data persistence, using hash tables for faster searching, and developing a graphical user interface.
 
-Overall, the MindCare System demonstrates how core data structures can be applied to solve real-world problems such as mental health tracking and appointment management, providing a strong foundation for more advanced systems.
+Overall, the MindCare System demonstrates how core data structures can be applied to solve real-world problems such as mental health tracking and appointment management, providing a strong foundation for more advanced Systems er.
 
